@@ -1,6 +1,14 @@
 # Weller WX Station Controller
 A Python-based controller for Weller WX series soldering stations with web interface support.
 
+# Compatible WX Stations
+- WX1
+- WX1 A
+- WX1 D
+- WX2
+- WX2 A
+- Wx2 D
+
 ## Description
 This software provides comprehensive control and monitoring capabilities for Weller WX series soldering stations. It features both a command-line interface and a modern web interface for controlling temperature, monitoring status, and managing station settings.
 
